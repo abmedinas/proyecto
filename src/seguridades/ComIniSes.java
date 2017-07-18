@@ -18,8 +18,8 @@ public class ComIniSes extends javax.swing.JFrame {
      */
     public ComIniSes()
     {
-        initComponents();
-        txtUsr.setText(getUsuario());
+//          initComponents();
+//          txtUsr.setText(getUsuario());
     }
 
     /**
