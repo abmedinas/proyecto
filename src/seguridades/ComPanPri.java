@@ -357,8 +357,8 @@ public class ComPanPri extends javax.swing.JFrame
         boolean blnRes=true;
         try
         {
-//           String strArc;
-//            if (((ComArcBloNot)dskGen.getSelectedFrame()).getTitle().equals("Bloc de notas"))
+           String strArc;
+            if (((ComArcBloNot)dskGen.getSelectedFrame()).getTitle().equals("Bloc de notas"))
             {
                 JFileChooser objFilCho=new JFileChooser();
                 objFilCho.setDialogTitle("Guardar");
